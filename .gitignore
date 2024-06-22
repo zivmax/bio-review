@@ -1,2 +1,8 @@
 .vscode/
 slides/
+~$*.ppt
+~$*.pptx
+~$*.doc
+~$*.docx
+~$*.xls
+~$*.xlsx
